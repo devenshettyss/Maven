@@ -1,0 +1,3 @@
+2021-08-12 11:19:25,447 FATAL a.LoggingDemo [main] fatal message
+2021-08-12 11:19:25,450 ERROR a.LoggingDemo [main] error message
+2021-08-12 11:19:25,450 WARN a.LoggingDemo [main] warning message
